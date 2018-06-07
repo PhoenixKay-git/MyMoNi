@@ -1,6 +1,5 @@
 package com.bwie.test.bean;
 
-
 public class CountPriceBean {
     private String priceString;
     private int count;
